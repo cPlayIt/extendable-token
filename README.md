@@ -37,7 +37,7 @@ We have a number of examples that you can use in the `examples` dirextory - all 
 ## Rationale
 Tokens can be used in a wide variety of circumstances, from cryptocurrency ledgers to in-game assets and more. These tokens can serve different purposes and therefore need to allow for a wide variety of functionalities. On the other hand, 3rd party tools that need to integrate with tokens would benefit from a standardized interface.
 
-EXT Standard promotes modular development of tokens using extensions and a common core. Token developers can developer their tokens based on their exact use case, and 3rd party developers can build tools around these tokens using the standardized interfaces.
+EXT Standard promotes modular development of tokens using extensions and a common core. Token developers can develop their tokens based on their exact use case, and 3rd party developers can build tools around these tokens using the standardized interfaces.
 
 This repo contains our core standard and a number of initial extensions. We have added a full motoko library of these modules, and have provided some [examples](examples). We are also developing a basic JS library to easily integrate EXT with your applications.
 
